@@ -85,6 +85,8 @@ user@host:PyT$ export PYTHONPATH=$PYTHONPATH:./
 If you are interested in PyT, start with `./pt/demo/main.py` and then look at source code to understand how all this magic is
 done.
 
+More about PyT background you can read at my blog post [Welcome PyT](http://www.cliws.com/e/OlAcV-_fd_EJMOf55HZ6Mg/). Questions please tweet to [@dogada](https://twitter.com/d0gada).
+
 The code is available under Simplified BSD License.
 
 Have fun!
